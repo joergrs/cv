@@ -70,8 +70,22 @@ You can add more sections like:
 
 ## Deployment
 
+### GitHub Pages (Recommended)
+
+This repository is configured for automatic deployment to GitHub Pages. When you push changes to the `main` branch, the website will automatically build and deploy.
+
+**Setup:**
+1. Push this repository to GitHub
+2. Go to your repository settings
+3. Navigate to "Pages" in the sidebar
+4. Under "Source", select "GitHub Actions"
+5. The workflow will automatically deploy your site
+
+Your site will be available at: `https://[your-username].github.io/[repository-name]/`
+
+### Other Hosting Options
+
 The generated `dist/` folder contains static files that can be deployed to any web hosting service:
-- GitHub Pages
 - Netlify
 - Vercel
 - Any traditional web hosting

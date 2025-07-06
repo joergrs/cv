@@ -33,6 +33,7 @@ pandoc \
 # Copy CSS and favicon files to dist directory
 cp style.css dist/
 cp favicon.png dist/ 2>/dev/null || echo "Warning: favicon.png not found"
+cp favicon.svg dist/ 2>/dev/null || echo "Warning: favicon.svg not found"
 
 echo "Website built successfully!"
 echo "Output files:"
