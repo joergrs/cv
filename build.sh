@@ -30,13 +30,15 @@ pandoc \
     --output=dist/index.html \
     index.md
 
-# Copy CSS file to dist directory
+# Copy CSS and favicon files to dist directory
 cp style.css dist/
+cp favicon.png dist/ 2>/dev/null || echo "Warning: favicon.png not found"
 
 echo "Website built successfully!"
 echo "Output files:"
 echo "  - dist/index.html"
 echo "  - dist/style.css"
+echo "  - dist/favicon.png"
 echo ""
 echo "To view the website, open dist/index.html in your browser"
 echo "Or serve it locally with: python3 -m http.server --directory dist"

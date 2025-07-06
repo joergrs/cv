@@ -22,10 +22,14 @@ body {
 
 /* Header */
 .header {
-    background: linear-gradient(135deg, #e8ea66 0%, #64a24b 100%);
+    background: linear-gradient(135deg, #9da008 0%, #2f7013 100%);
     color: white;
     padding: 3rem 2rem;
     text-align: center;
+}
+
+.header p {
+    color: white;
 }
 
 .header-content {
@@ -51,7 +55,7 @@ body {
     padding: 3rem 2rem;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
     color: #2d3748;
     margin-bottom: 1rem;
     font-weight: 600;
