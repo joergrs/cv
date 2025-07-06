@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>$if(title)$$title$$else$Jörg Schröter - Software Developer and Engineer$endif$</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <h1 class="name">$if(title)$$title$$else$Jörg Schröter$endif$</h1>
+                $if(subtitle)$<p class="subtitle">$subtitle$</p>$endif$
+            </div>
+        </header>
+
+        <main class="main-content">
+            $body$
+        </main>
+
+        <footer class="footer">
+            <p>&copy; $if(date)$$date$$else$2024$endif$ Jörg Schröter. Built with <a href="https://pandoc.org/">Pandoc</a>.</p>
+        </footer>
+    </div>
+</body>
+</html>
