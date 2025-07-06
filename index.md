@@ -15,7 +15,7 @@ My programming style is to write clean, readable code and at the same time be aw
 * **Software development**: desktop applications, server-based services, embedded systems
 * **Continuous integration**: building, testing, deployment
 * **API technologies**: REST, COM, XMLRPC, protobuf, etc.
-* **Containerization**: Docker
+* **Containerization**: Docker, Proxmox, LXC
 * **Databases**: SQLite, PostgreSQL, MySQL/MariaDB
 * **Embedded systems**: microcontrollers, measurement technology, sensors, signal processing, hardware design
 * **Self-hosting**: Docker, Traefik, Nextcloud, WordPress, Bitcoin Core/Lightning,
@@ -34,8 +34,8 @@ Fluent in English and German.
 ## Systems, Tools and Frameworks
 
 * **Operating Systems**: Linux, Windows
-* **CI/CD**: Jenkins, GitHub Actions
-* **Engineering Tools**: MATLAB
+* **CI/CD**: Jenkins, GitHub Actions, Ansible
+* **Engineering Tools**: MATLAB, KiCad, Autodesk Inventor
 * **Web Frameworks**: Vue, Svelte, React, Node.js
 * **Hardware Platforms**: STM32, Raspberry Pi, Arduino, ESP32
 
@@ -52,10 +52,12 @@ Fluent in English and German.
 
 **2006 - 2012**: Mechatronics (Degree: Dipl.-Ing./M.Sc.), Technical University of Dresden
 
+**2009 - 2010**: Erasmus exchange at the [University of Zaragoza, Spain](https://www.unizar.es/)
+
 
 ## Notable Open Source Projects
 
-* [Solawi Bedarfsanmeldung](https://github.com/lebenswurzel/solawi-bedarf) - A web application for managing the food distribution of a [community supported agriculture](https://lebenswurzel.ord/) (tech stack: Node.js, Vue.js, PostgreSQL)
+* [Solawi Bedarfsanmeldung](https://github.com/lebenswurzel/solawi-bedarf) - A web application for managing the food distribution of a [community supported agriculture](https://lebenswurzel.org/) (tech stack: Node.js, Vue.js, PostgreSQL)
 * [Grünes Brett](https://github.com/gruenes-brett) - A website for events that promote sustainability and local initiatives (tech stack: WordPress, PHP)
 
 ## Links
