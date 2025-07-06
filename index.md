@@ -50,7 +50,7 @@ Fluent in English and German.
 
 ## Education
 
-* **2006 - 2012**: Mechatronics (Degree: Dipl.-Ing./M.Sc.), Technical University of Dresden
+**2006 - 2012**: Mechatronics (Degree: Dipl.-Ing./M.Sc.), Technical University of Dresden
 
 
 ## Notable Open Source Projects
