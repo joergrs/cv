@@ -1,4 +1,4 @@
-\>12 Years Experience in engineering and software development with a deep background in testing and automation.
+*\>12 Years Experience in engineering and software development with a deep background in testing and automation*
 
 ## About me
 
@@ -18,18 +18,8 @@ My programming style is to write clean, readable code and at the same time be aw
 * **Containerization**: Docker, Proxmox, LXC
 * **Databases**: SQLite, PostgreSQL, MySQL/MariaDB
 * **Embedded systems**: microcontrollers, measurement technology, sensors, signal processing, hardware design
-* **Self-hosting**: Docker, Traefik, Nextcloud, WordPress, Bitcoin Core/Lightning,
-* **AI**: leveraging AI tools to quickly learn new technologies and support my work process.
-
-### Languages
-
-**Advanced**:
-Python, C/C++, Java, JavaScript/TypeScript, C#, Groovy, MATLAB, Bash, PHP
-
-**Foundational knowledge**:
-Rust
-
-Fluent in English and German.
+* **Self-hosting**: Docker, Traefik, Nextcloud, WordPress, Bitcoin Core/Lightning, Home Assistant
+* **AI**: leveraging AI tools to quickly learn new technologies and improve my work process
 
 ## Systems, Tools and Frameworks
 
@@ -38,6 +28,17 @@ Fluent in English and German.
 * **Engineering Tools**: MATLAB, KiCad, Autodesk Inventor
 * **Web Frameworks**: Vue, Svelte, React, Node.js
 * **Hardware Platforms**: STM32, Raspberry Pi, Arduino, ESP32
+* **Development Tools**: Git, Vim, PyCharm, VS Code, etc.
+
+## Languages
+
+**Advanced**:
+Python, C/C++, Java, JavaScript/TypeScript, C#, Groovy, MATLAB, Bash, PHP
+
+**Foundational knowledge**:
+Rust
+
+Fluent in English and German.
 
 ## Experience
 
@@ -54,11 +55,13 @@ Fluent in English and German.
 
 **2009 - 2010**: Erasmus exchange at the [University of Zaragoza, Spain](https://www.unizar.es/)
 
+**2005**: Abitur, Gymnasium am Löhrtor, Siegen
+
 
 ## Notable Open Source Projects
 
 * [Solawi Bedarfsanmeldung](https://github.com/lebenswurzel/solawi-bedarf) - A web application for managing the food distribution of a [community supported agriculture](https://lebenswurzel.org/) (tech stack: Node.js, Vue.js, PostgreSQL)
-* [Grünes Brett](https://github.com/gruenes-brett) - A website for events that promote sustainability and local initiatives (tech stack: WordPress, PHP)
+* [Grünes Brett](https://github.com/gruenes-brett) - A website for events that promote sustainability and local initiatives (tech stack: WordPress, PHP, Ansible)
 
 ## Links
 
