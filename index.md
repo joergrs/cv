@@ -1,4 +1,4 @@
-*\>12 Years Experience in engineering and software development with a deep background in testing and automation*
+<div style="max-width: 35em; margin: 0 auto; text-align: center;">*\>12 Years Experience in engineering and software development with a deep background in testing and automation*.</div>
 
 ## About me
 
