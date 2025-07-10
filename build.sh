@@ -24,7 +24,7 @@ pandoc \
     --template=template.html \
     --css=style.css \
     --metadata title="Dipl.-Ing. Jörg Schröter" \
-    --metadata subtitle="Software developer and engineer" \
+    --metadata subtitle="software developer and engineer" \
     --metadata date="$(date +%Y)" \
     --standalone \
     --output=dist/index.html \

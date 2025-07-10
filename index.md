@@ -1,4 +1,4 @@
-<div style="max-width: 35em; margin: 0 auto; text-align: center;">*\>12 Years Experience in engineering and software development with a deep background in testing and automation*.</div>
+<div style="max-width: 35em; margin: 0 auto; text-align: center;">*\>12 years experience in engineering and software development with a deep background in testing and automation*.</div>
 
 ## About me
 
@@ -51,7 +51,7 @@ Fluent in English and German.
 
 ## Education
 
-**2006 - 2012**: Mechatronics (Degree: Dipl.-Ing./M.Sc.), Technical University of Dresden
+**2006 - 2012**: Mechatronics (Degree: Dipl.-Ing./M.Sc.), [Technical University of Dresden](https://www.tu-dresden.de/)
 
 **2009 - 2010**: Erasmus exchange at the [University of Zaragoza, Spain](https://www.unizar.es/)
 
